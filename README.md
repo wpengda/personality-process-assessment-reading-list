@@ -19,6 +19,8 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
     - [📚 Personality Inventory](#-personality-inventory)
 
+    - [🔬 Personality Nuances](#-personality-nuances)
+
     - [👥 Personality Profile](#-personality-profile)
     
 - [💡 Contribution](#-contribution)
@@ -41,14 +43,25 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 - [**IPIP**](https://ipip.ori.org/)
 
 
+
+## 🔬 Personality Nuances
+
+- [**There are a million ways to be a woman and a million ways to be a man: Gender differences across personality nuances and nations**](https://doi.org/10.1016/j.jrp.2025.104582)
+
+    Hofmann, R., Rozgonjuk, D., Soto, C. J., Ostendorf, F., & Mõttus, R. (2025). There are a million ways to be a woman and a million ways to be a man: Gender differences across personality nuances and nations. *Journal of Research in Personality*, 104582. https://doi.org/10.1016/j.jrp.2025.104582
+
+
+
+
+
 ## 👥 Personality Profile
 
-- [**Personality Profiles of 263 Occupations**](https://doi.org/10.1037/apl0001249)
+- [**Personality profiles of 263 occupations**](https://doi.org/10.1037/apl0001249)
 
     Anni, K., Vainik, U., & Mõttus, R. (2025). Personality profiles of 263 occupations. *Journal of Applied Psychology, 110*(4), 481–511. https://doi.org/10.1037/apl0001249
 
 
-- [**Personality Profiles of Cultures**](https://doi.org/10.1037/0022-3514.89.3.407)
+- [**Personality profiles of cultures: Aggregate personality traits**](https://doi.org/10.1037/0022-3514.89.3.407)
     
     McCrae, R. R., Terracciano, A., & Personality Profiles of Cultures Project. (2005). Personality profiles of cultures: Aggregate personality traits. *Journal of Personality and Social Psychology, 89*(3), 407–425. https://doi.org/10.1037/0022-3514.89.3.407
 
