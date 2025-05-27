@@ -75,9 +75,18 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
     [Additional Related Papers](https://ipip.ori.org/HistoryOfTheIPIP.htm)
 
+
 - [**AMBI**](https://doi.org/10.1016/j.jrp.2010.01.002)
 
     Yarkoni, T. (2010). The abbreviation of personality, or how to measure 200 personality scales with 200 items. *Journal of Research in Personality, 44*(2), 180–198. https://doi.org/10.1016/j.jrp.2010.01.002
+
+
+
+- [**SAPA**](https://osf.io/f6rs8/)
+
+    Condon, D. M. (2018). The SAPA personality inventory: An empirically-derived, hierarchically-organized self-report personality assessment model. OSF. https://doi.org/10.31234/osf.io/sc4p9
+
+
 
 
 ### 👤 Personality-Behavior Inventory
@@ -100,6 +109,12 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 - **Personality psychology**
 
     Roberts, B. W., & Yoon, H. J. (2021). Personality psychology. *Annual Review of Psychology*, 73(1), 489–516. https://doi.org/10.1146/annurev-psych-020821-114927
+
+
+
+- **Descriptive, predictive and explanatory personality research: Different goals, different aproaches, but a shared need to move beyond the Big Few traits**
+
+    Mõttus, R., Wood, D., Condon, D. M., Back, M. D., Baumert, A., Costantini, G., Epskamp, S., Greiff, S., Johnson, W., Lukaszewski, A., Murray, A., Revelle, W., Wright, A. G., Yarkoni, T., Ziegler, M., & Zimmermann, J. (2020). Descriptive, predictive and explanatory personality research: Different goals, different aproaches, but a shared need to move beyond the Big Few traits. *European Journal of Personality, 34*(6), 1175–1201. https://doi.org/10.1002/per.2311
 
 
 
@@ -192,15 +207,38 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
 
 
+
+- **Deep lexical hypothesis: Identifying personality structure in natural language**
+
+    Cutler, A., & Condon, D. M. (2023). Deep lexical hypothesis: Identifying personality structure in natural language. *Journal of Personality and Social Psychology, 125*(1), 173–197. https://doi.org/10.1037/pspp0000443
+
+
+
+
+- **Bottom up construction of a personality taxonomy**
+
+    Condon, D. M., Wood, D., Mõttus, R., Booth, T., Costantini, G., Greiff, S., Johnson, W., Lukaszewski, A., Murray, A., Revelle, W., Wright, A. G. C., Ziegler, M., & Zimmermann, J. (2020). Bottom up construction of a personality taxonomy. *European Journal of Psychological Assessment, 36*(6), 923–934. https://doi.org/10.1027/1015-5759/a000626
+
+
+
 - **Gaining insights from social media language: Methodologies and challenges**
 
     Kern, M. L., Park, G., Eichstaedt, J. C., Schwartz, H. A., Sap, M., Smith, L. K., & Ungar, L. H. (2016). Gaining insights from social media language: Methodologies and challenges. *Psychological Methods, 21*(4), 507–525. https://doi.org/10.1037/met0000091
 
 
 
+
+- **A model for personality at three levels**
+
+    Revelle, W., & Condon, D. M. (2015). A model for personality at three levels. *Journal of Research in Personality, 56*, 70–81. https://doi.org/10.1016/j.jrp.2014.12.006
+
+
+
 - **The online social self**
 
     Kern, M. L., Eichstaedt, J. C., Schwartz, H. A., Dziurzynski, L., Ungar, L. H., Stillwell, D. J., Kosinski, M., Ramones, S. M., & Seligman, M. E. P. (2013). The online social self. *Assessment, 21*(2), 158–169. https://doi.org/10.1177/1073191113514104
+
+
 
 
 - **Narrative identity**
@@ -275,6 +313,11 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
 
 
+- **Exploring the persome: The power of the item in understanding personality structure**
+
+    Revelle, W., Dworak, E. M., & Condon, D. M. (2020). Exploring the persome: The power of the item in understanding personality structure. *Personality and Individual Differences, 169*, 109905. https://doi.org/10.1016/j.paid.2020.109905
+
+
 
 
 - **Are we getting fooled again? Coming to terms with limitations in the use of personality tests for personnel selection**
@@ -283,9 +326,11 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
 
 
+
 - **In support of personality assessment in organizational settings**
 
     Ones, D. S., Dilchert, S., Viswesvaran, C., & Judge, T. A. (2007). In support of personality assessment in organizational settings. *Personnel Psychology, 60*(4), 995–1027. https://doi.org/10.1111/j.1744-6570.2007.00099.x
+
 
 
 
