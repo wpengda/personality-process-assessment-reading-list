@@ -12,7 +12,7 @@ Personality-assessment-reading-list: a curated list of resources for Personality
 
 
 
-### 📚 Personality Inventory
+## 📚 Personality Inventory
 
 - [Facet Map](https://facetmap.org)
 
@@ -25,6 +25,6 @@ Personality-assessment-reading-list: a curated list of resources for Personality
 - [IPIP](https://ipip.ori.org/)
 
 
-### 👥 Personality Profile
+## 👥 Personality Profile
 
 - [Personality Profiles of 263 Occupations](https://psycnet.apa.org/fulltext/2025-38154-001.html#s11)
