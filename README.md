@@ -30,21 +30,27 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
 ## 📚 Personality Inventory
 
-- [Facet Map](https://facetmap.org)
+- [**Facet Map**](https://facetmap.org)
 
-- [100 Nuances of Personality](https://osf.io/4xr5h)
+- [**100 Nuances of Personality**](https://osf.io/4xr5h)
 
-- [BFI-2](https://www.colby.edu/academics/departments-and-programs/psychology/research-opportunities/personality-lab/the-bfi-2/)
+- [**BFI-2**](https://www.colby.edu/academics/departments-and-programs/psychology/research-opportunities/personality-lab/the-bfi-2/)
 
-- [HEXACO-PI-R](https://hexaco.org/)
+- [**HEXACO-PI-R**](https://hexaco.org/)
 
-- [IPIP](https://ipip.ori.org/)
+- [**IPIP**](https://ipip.ori.org/)
 
 
 ## 👥 Personality Profile
 
-- [Personality Profiles of 263 Occupations](https://doi.org/10.1037/apl0001249)
-- [Personality Profiles of Cultures](https://psycnet.apa.org/fulltext/2005-13299-011.html)
+- [**Personality Profiles of 263 Occupations**](https://doi.org/10.1037/apl0001249)
+
+    Anni, K., Vainik, U., & Mõttus, R. (2025). Personality profiles of 263 occupations. *Journal of Applied Psychology, 110*(4), 481–511. https://doi.org/10.1037/apl0001249
+
+
+- [**Personality Profiles of Cultures**](https://doi.org/10.1037/0022-3514.89.3.407)
+    
+    McCrae, R. R., Terracciano, A., & Personality Profiles of Cultures Project. (2005). Personality profiles of cultures: Aggregate personality traits. *Journal of Personality and Social Psychology, 89*(3), 407–425. https://doi.org/10.1037/0022-3514.89.3.407
 
 
 
