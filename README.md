@@ -2,10 +2,26 @@
 
 Personality-assessment-reading-list: a curated list of resources for Personality assessment.
 
+---
+
+This repository primarily focuses on **Personality**, with an emphasis on **Personality Assessment**. 
+Personality research is a broad topic that spans many fields. 
+Although we cannot guarantee exhaustive coverage, we will do our best to provide thorough and continuous updates. 
+
+**The repository is updated weekly, typically over the weekend.** 
+
+If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.com.
+
 
 ## 📁 Content
 
+- [📁 Content](#content)
 
+    - [📚 Personality Inventory](#-personality-inventory)
+
+    - [👥 Personality Profile](#-personality-profile)
+    
+- [💡 Contribution](#-contribution)
 
 
 
