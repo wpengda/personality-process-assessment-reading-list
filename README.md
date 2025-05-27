@@ -44,6 +44,7 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 ## 👥 Personality Profile
 
 - [Personality Profiles of 263 Occupations](https://doi.org/10.1037/apl0001249)
+- [Personality Profiles of Cultures](https://psycnet.apa.org/fulltext/2005-13299-011.html)
 
 
 
