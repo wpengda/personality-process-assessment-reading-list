@@ -102,6 +102,37 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
     Roberts, B. W., & Yoon, H. J. (2021). Personality psychology. *Annual Review of Psychology*, 73(1), 489–516. https://doi.org/10.1146/annurev-psych-020821-114927
 
 
+
+- **Validity of observer ratings of the five-factor model of personality traits: A meta-analysis**
+
+    Oh, I.-S., Wang, G., & Mount, M. K. (2011). Validity of observer ratings of the five-factor model of personality traits: A meta-analysis. *Journal of Applied Psychology, 96*(4), 762–773. https://doi.org/10.1037/a0021832
+
+
+
+- **Personality testing and industrial–organizational psychology: Reflections, progress, and prospects**
+
+    Hough, L. M., & Oswald, F. L. (2008). Personality testing and industrial–organizational psychology: Reflections, progress, and prospects. *Industrial and Organizational Psychology: Perspectives on Science and Practice, 1*(3), 272–290. https://doi.org/10.1111/j.1754-9434.2008.00048.x
+
+
+
+- **The Convergent Validity between Self and Observer Ratings of Personality: A meta-analytic review.**
+
+    Connolly, J. J., Kavanagh, E. J., & Viswesvaran, C. (2007). The Convergent Validity between Self and Observer Ratings of Personality: A meta-analytic review. *International Journal of Selection and Assessment, 15*(1), 110–117. https://doi.org/10.1111/j.1468-2389.2007.00371.x
+
+
+
+
+- **Personality and the prediction of consequential outcomes**
+
+    Ozer, D. J., & Benet-Martínez, V. (2005). Personality and the prediction of consequential outcomes. *Annual Review of Psychology, 57*(1), 401–421. https://doi.org/10.1146/annurev.psych.57.102904.190127
+
+
+
+- **Personality assessment**
+
+    Ozer, D. J., & Reise, S. P. (1994). Personality assessment. *Annual Review of Psychology, 45*(1), 357–388. https://doi.org/10.1146/annurev.ps.45.020194.002041
+
+
 </details>
 
 
@@ -122,11 +153,35 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
     Fan, J., Sun, T., Liu, J., Zhao, T., Zhang, B., Chen, Z., Glorioso, M., & Hack, E. (2023). How well can an AI chatbot infer personality? Examining psychometric properties of machine-inferred personality scores. *Journal of Applied Psychology, 108*(8), 1277–1299. https://doi.org/10.1037/apl0001082
 
 
+
+
+- **Using machine learning to advance personality assessment and theory**
+
+    Bleidorn, W., & Hopwood, C. J. (2018). Using machine learning to advance personality assessment and theory. *Personality and Social Psychology Review, 23*(2), 190-203. https://doi.org/10.1177/1088868318772990 
+    
+
+
+- **Birds of a feather do flock together: Behavior-based personality-assessment method reveals personality similarity among couples and friends**
+
+    Youyou, W., Stillwell, D., Schwartz, H. A., & Kosinski, M. (2017). Birds of a feather do flock together: Behavior-based personality-assessment method reveals personality similarity among couples and friends. *Psychological Science, 28*(3), 276–284. https://doi.org/10.1177/0956797616678187
+
+
+- **Assessing personality with a structured employment interview: Construct-related validity and susceptibility to response inflation**
+
+    Van Iddekinge, C. H., Raymark, P. H., & Roth, P. L. (2005). Assessing personality with a structured employment interview: Construct-related validity and susceptibility to response inflation. *Journal of Applied Psychology, 90*(3), 536–552. https://doi.org/10.1037/0021-9010.90.3.536
+
+
+
+- **A structured interview for the assessment of the Five‐Factor model of personality: Facet‐Level relations to the Axis II Personality Disorders**
+
+    Trull, T. J., Widiger, T. A., & Burr, R. (2001). A structured interview for the assessment of the Five‐Factor model of personality: Facet‐Level relations to the Axis II Personality Disorders. *Journal of Personality, 69*(2), 175–198. https://doi.org/10.1111/1467-6494.00141
+
+
 </details>
 
 
 
-## 🔬 Personality Nuances
+## 🔬 Personality Construct/Nuances
 
 <details>
 <summary>details</summary>
@@ -134,6 +189,57 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 - **There are a million ways to be a woman and a million ways to be a man: Gender differences across personality nuances and nations**
 
     Hofmann, R., Rozgonjuk, D., Soto, C. J., Ostendorf, F., & Mõttus, R. (2025). There are a million ways to be a woman and a million ways to be a man: Gender differences across personality nuances and nations. *Journal of Research in Personality*, 104582. https://doi.org/10.1016/j.jrp.2025.104582
+
+
+
+- **Gaining insights from social media language: Methodologies and challenges**
+
+    Kern, M. L., Park, G., Eichstaedt, J. C., Schwartz, H. A., Sap, M., Smith, L. K., & Ungar, L. H. (2016). Gaining insights from social media language: Methodologies and challenges. *Psychological Methods, 21*(4), 507–525. https://doi.org/10.1037/met0000091
+
+
+
+- **The online social self**
+
+    Kern, M. L., Eichstaedt, J. C., Schwartz, H. A., Dziurzynski, L., Ungar, L. H., Stillwell, D. J., Kosinski, M., Ramones, S. M., & Seligman, M. E. P. (2013). The online social self. *Assessment, 21*(2), 158–169. https://doi.org/10.1177/1073191113514104
+
+
+- **Narrative identity**
+
+    McAdams, D.P. and McLean, K.C. (2013) Narrative identity. *Current Directions in Psychological Science, 22*, 233-238. https://doi.org/10.1177/0963721413475622
+
+
+
+- **Personality in 100,000 Words: A large-scale analysis of personality and word use among bloggers**
+
+    Yarkoni, T. (2010). Personality in 100,000 Words: A large-scale analysis of personality and word use among bloggers. *Journal of Research in Personality, 44*(3), 363–373. https://doi.org/10.1016/j.jrp.2010.04.001
+
+
+
+- **A new Big Five: Fundamental principles for an integrative science of personality**
+
+    McAdams, D. P., & Pals, J. L. (2006). A new Big Five: Fundamental principles for an integrative science of personality. *American Psychologist, 61*(3), 204–217. https://doi.org/10.1037/0003-066X.61.3.204
+
+
+
+
+- **Linguistic styles: Language use as an individual difference**
+
+    Pennebaker, J. W., & King, L. A. (1999). Linguistic styles: Language use as an individual difference. *Journal of Personality and Social Psychology, 77*(6), 1296–1312. https://doi.org/10.1037/0022-3514.77.6.1296
+
+
+
+
+- **The development of markers for the Big-Five factor structure**
+
+    Goldberg, L. R. (1992). The development of markers for the Big-Five factor structure. *Psychological Assessment, 4*(1), 26–42. https://doi.org/10.1037/1040-3590.4.1.26
+
+
+
+- **alidation of the five-factor model of personality across instruments and observers**
+
+    McCrae, R. R., & Costa, P. T. (1987). Validation of the five-factor model of personality across instruments and observers. *Journal of Personality and Social Psychology, 52*(1), 81–90. https://doi.org/10.1037/0022-3514.52.1.81
+
+
 
 </details>
 
@@ -166,6 +272,43 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 - **Cognitive ability and personal values: A large sample study of Schwartz's values, HEXACO personality, age, and gender**
 
     Anglim, J., & Marty, A. (2024). Cognitive ability and personal values: A large sample study of Schwartz's values, HEXACO personality, age, and gender. *Social Psychological and Personality Science*. https://doi.org/10.1177/19485506241281025
+
+
+
+
+
+- **Are we getting fooled again? Coming to terms with limitations in the use of personality tests for personnel selection**
+
+    Morgeson, F. P., Campion, M. A., Dipboye, R. L., Hollenbeck, J. R., Murphy, K., & Schmitt, N. (2007). Are we getting fooled again? Coming to terms with limitations in the use of personality tests for personnel selection. *Personnel Psychology, 60*(4), 1029–1049. https://doi.org/10.1111/j.1744-6570.2007.00100.x
+
+
+
+- **In support of personality assessment in organizational settings**
+
+    Ones, D. S., Dilchert, S., Viswesvaran, C., & Judge, T. A. (2007). In support of personality assessment in organizational settings. *Personnel Psychology, 60*(4), 995–1027. https://doi.org/10.1111/j.1744-6570.2007.00099.x
+
+
+
+- **Reconsidering the use of personality tests in personnel selection contexts**
+
+    Morgeson, F. P., Campion, M. A., Dipboye, R. L., Hollenbeck, J. R., Murphy, K., & Schmitt, N. (2007). Reconsidering the use of personality tests in personnel selection contexts. *Personnel Psychology, 60*(3), 683–729. https://doi.org/10.1111/j.1744-6570.2007.00089.x
+
+
+
+
+
+- **The power of personality: the comparative validity of personality traits, socioeconomic status, and cognitive ability for predicting important life outcomes**
+
+    Roberts, B. W., Kuncel, N. R., Shiner, R., Caspi, A., & Goldberg, L. R. (2007). The power of personality: the comparative validity of personality traits, socioeconomic status, and cognitive ability for predicting important life outcomes. *Perspectives on Psychological Science, 2*(4), 313–345. https://doi.org/10.1111/j.1745-6916.2007.00047.x
+
+
+
+
+- **The Big Five personality traits, general mental ability, and career success across the life span**
+
+    Judge, T. A., Higgins, C. A., Thoresen, C. J., & Barrick, M. R. (1999). The Big Five personality traits, general mental ability, and career success across the life span. *Personnel Psychology, 52*(3), 621–652. https://doi.org/10.1111/j.1744-6570.1999.tb00174.x
+
+
 
 </details>
 
