@@ -40,6 +40,8 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
 
 ## 📚 Personality Inventory
+<details>
+<summary>details</summary>
 
 - [**Facet Map**](https://facetmap.org)
 
@@ -84,6 +86,7 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
     Elleman, L. G., Condon, D. M., & Revelle, W. (2020). Laying Personality BARE: Behavioral frequencies strengthen personality-criterion relationships. *OSF.* https://doi.org/10.31234/osf.io/yufne
 
+</details>
 
 
 
@@ -91,16 +94,22 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
 ## 📝 Personality Systematic Review & Meta Analysis
 
+<details>
+<summary>details</summary>
+
 - **Personality psychology**
 
     Roberts, B. W., & Yoon, H. J. (2021). Personality psychology. *Annual Review of Psychology*, 73(1), 489–516. https://doi.org/10.1146/annurev-psych-020821-114927
 
 
-
+</details>
 
 
 
 ## 🎯 Personality Assessment
+
+<details>
+<summary>details</summary>
 
 - **A deep learning approach to personality assessment: Generalizing across items and expanding the reach of survey-based research**
 
@@ -113,21 +122,27 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
     Fan, J., Sun, T., Liu, J., Zhao, T., Zhang, B., Chen, Z., Glorioso, M., & Hack, E. (2023). How well can an AI chatbot infer personality? Examining psychometric properties of machine-inferred personality scores. *Journal of Applied Psychology, 108*(8), 1277–1299. https://doi.org/10.1037/apl0001082
 
 
-
+</details>
 
 
 
 ## 🔬 Personality Nuances
 
+<details>
+<summary>details</summary>
+
 - **There are a million ways to be a woman and a million ways to be a man: Gender differences across personality nuances and nations**
 
     Hofmann, R., Rozgonjuk, D., Soto, C. J., Ostendorf, F., & Mõttus, R. (2025). There are a million ways to be a woman and a million ways to be a man: Gender differences across personality nuances and nations. *Journal of Research in Personality*, 104582. https://doi.org/10.1016/j.jrp.2025.104582
 
-
+</details>
 
 
 
 ## 👥 Personality Profile
+
+<details>
+<summary>details</summary>
 
 - **Personality profiles of 263 occupations**
 
@@ -138,27 +153,34 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
     
     McCrae, R. R., Terracciano, A., & Personality Profiles of Cultures Project. (2005). Personality profiles of cultures: Aggregate personality traits. *Journal of Personality and Social Psychology, 89*(3), 407–425. https://doi.org/10.1037/0022-3514.89.3.407
 
-
+</details>
 
 
 
 
 ## 🔮 Personality Traits as Predictors
 
+<details>
+<summary>details</summary>
+
 - **Cognitive ability and personal values: A large sample study of Schwartz's values, HEXACO personality, age, and gender**
 
     Anglim, J., & Marty, A. (2024). Cognitive ability and personal values: A large sample study of Schwartz's values, HEXACO personality, age, and gender. *Social Psychological and Personality Science*. https://doi.org/10.1177/19485506241281025
 
-
+</details>
 
 
 ## 🧬 Behavioral Genetics of Personality
+
+<details>
+<summary>details</summary>
+
 
 - **Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality**
 
     Schwaba, T., Sullivan, M. L. C., Akingbuwa, W. A., Ilves, K., Tanksley, P. T., Williams, C. M., Dragostinov, Y., Liao, W., Ackerman, L. S., Fealy, J. C. M., Hemani, G., De La Fuente, J., Gupta, P., Stein, M. B., Gelernter, J., Levey, D. F., Vosa, U., Ausmees, L., Realo, A., . . . Tucker-Drob, E. M. (2025). Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality. *bioRxiv (Cold Spring Harbor Laboratory)*. https://doi.org/10.1101/2025.05.16.648988
 
-
+</details>
 
 
 
