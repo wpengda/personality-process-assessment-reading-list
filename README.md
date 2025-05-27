@@ -18,10 +18,19 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 - [📁 Content](#content)
 
     - [📚 Personality Inventory](#-personality-inventory)
+        - [👤 Personality-Behavior Inventory](#-personality-behavior-inventory)
+
+    - [📝 Personality Systematic Review & Meta Analysis](#-personality-systematic-review--meta-analysis)
+
+    - [🎯 Personality Assessment](#-personality-assessment)
 
     - [🔬 Personality Nuances](#-personality-nuances)
 
     - [👥 Personality Profile](#-personality-profile)
+
+    - [🔮 Personality Traits as Predictors](#personality-traits-as-predictors)
+
+    - [🧬 Behavioral Genetics of Personality](#-behavioral-genetics-of-personality)
     
 - [💡 Contribution](#-contribution)
 
@@ -41,6 +50,34 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 - [**HEXACO-PI-R**](https://hexaco.org/)
 
 - [**IPIP**](https://ipip.ori.org/)
+
+
+### 👤 Personality-Behavior Inventory
+
+- [**BARE**](https://doi.org/10.31234/osf.io/yufne)
+
+
+
+
+## 📝 Personality Systematic Review & Meta Analysis
+
+- **Personality psychology**
+
+    Roberts, B. W., & Yoon, H. J. (2021). Personality psychology. *Annual Review of Psychology*, 73(1), 489–516. https://doi.org/10.1146/annurev-psych-020821-114927
+
+
+
+
+
+
+## 🎯 Personality Assessment
+
+- **How well can an AI chatbot infer personality? Examining psychometric properties of machine-inferred personality scores**
+
+    Fan, J., Sun, T., Liu, J., Zhao, T., Zhang, B., Chen, Z., Glorioso, M., & Hack, E. (2023). How well can an AI chatbot infer personality? Examining psychometric properties of machine-inferred personality scores. *Journal of Applied Psychology, 108*(8), 1277–1299. https://doi.org/10.1037/apl0001082
+
+
+
 
 
 
@@ -64,6 +101,27 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 - **Personality profiles of cultures: Aggregate personality traits**
     
     McCrae, R. R., Terracciano, A., & Personality Profiles of Cultures Project. (2005). Personality profiles of cultures: Aggregate personality traits. *Journal of Personality and Social Psychology, 89*(3), 407–425. https://doi.org/10.1037/0022-3514.89.3.407
+
+
+
+
+
+
+## 🔮 Personality Traits as Predictors
+
+- **Cognitive ability and personal values: A large sample study of Schwartz's values, HEXACO personality, age, and gender**
+
+    Anglim, J., & Marty, A. (2024). Cognitive ability and personal values: A large sample study of Schwartz's values, HEXACO personality, age, and gender. *Social Psychological and Personality Science*. https://doi.org/10.1177/19485506241281025
+
+
+
+
+## 🧬 Behavioral Genetics of Personality
+
+- **Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality**
+
+    Schwaba, T., Sullivan, M. L. C., Akingbuwa, W. A., Ilves, K., Tanksley, P. T., Williams, C. M., Dragostinov, Y., Liao, W., Ackerman, L. S., Fealy, J. C. M., Hemani, G., De La Fuente, J., Gupta, P., Stein, M. B., Gelernter, J., Levey, D. F., Vosa, U., Ausmees, L., Realo, A., . . . Tucker-Drob, E. M. (2025). Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality. *bioRxiv (Cold Spring Harbor Laboratory)*. https://doi.org/10.1101/2025.05.16.648988
+
 
 
 
