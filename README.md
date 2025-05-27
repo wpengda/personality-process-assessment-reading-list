@@ -43,7 +43,7 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
 ## 👥 Personality Profile
 
-- [Personality Profiles of 263 Occupations](https://psycnet.apa.org/fulltext/2025-38154-001.html#s11)
+- [Personality Profiles of 263 Occupations](https://doi.org/10.1037/apl0001249)
 
 
 
