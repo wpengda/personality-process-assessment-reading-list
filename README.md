@@ -84,7 +84,9 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
 - [**SAPA**](https://osf.io/f6rs8/)
 
-    Condon, D. M. (2018). The SAPA personality inventory: An empirically-derived, hierarchically-organized self-report personality assessment model. OSF. https://doi.org/10.31234/osf.io/sc4p9
+    Condon, D. M. (2018). The SAPA personality inventory: An empirically-derived, hierarchically-organized self-report personality assessment model. *OSF*. https://doi.org/10.31234/osf.io/sc4p9
+
+    Condon, D. M., Roney, E., & Revelle, W. (2017). A SAPA Project Update: On the Structure of phrased Self-Report Personality Items. *Journal of Open Psychology Data, 5*. https://doi.org/10.5334/jopd.32
 
 
 
@@ -121,6 +123,12 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 - **Validity of observer ratings of the five-factor model of personality traits: A meta-analysis**
 
     Oh, I.-S., Wang, G., & Mount, M. K. (2011). Validity of observer ratings of the five-factor model of personality traits: A meta-analysis. *Journal of Applied Psychology, 96*(4), 762–773. https://doi.org/10.1037/a0021832
+
+
+
+- **An other perspective on personality: Meta-analytic integration of observers' accuracy and predictive validity**
+
+    Connelly, B. S., & Ones, D. S. (2010). An other perspective on personality: Meta-analytic integration of observers' accuracy and predictive validity. *Psychological Bulletin, 136*(6), 1092–1122. https://doi.org/10.1037/a0021212
 
 
 
@@ -352,6 +360,13 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 - **The Big Five personality traits, general mental ability, and career success across the life span**
 
     Judge, T. A., Higgins, C. A., Thoresen, C. J., & Barrick, M. R. (1999). The Big Five personality traits, general mental ability, and career success across the life span. *Personnel Psychology, 52*(3), 621–652. https://doi.org/10.1111/j.1744-6570.1999.tb00174.x
+
+
+
+
+- **Role of social desirability in personality testing for personnel selection: The red herring**
+
+    Ones, D. S., Viswesvaran, C., & Reiss, A. D. (1996). Role of social desirability in personality testing for personnel selection: The red herring. *Journal of Applied Psychology, 81*(6), 660–679. https://doi.org/10.1037/0021-9010.81.6.660
 
 
 
