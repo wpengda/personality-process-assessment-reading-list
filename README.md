@@ -1,16 +1,16 @@
-# Papers and Resources about Personality Assessment
+# Papers and Resources about Personality Process and Assessment
 
-Personality-assessment-reading-list: a curated list of resources for Personality assessment.
+Personality-process-assessment-reading-list: a curated list of resources for Personality process and assessment
 
 ---
 
-This repository primarily focuses on **Personality**, with an emphasis on **Personality Assessment**. 
+This repository primarily focuses on **Personality**, with an emphasis on **Personality Process and Assessment**. 
 Personality research is a broad topic that spans many fields. 
 Although we cannot guarantee exhaustive coverage, we will do our best to provide thorough and continuous updates. 
 
 **The repository is updated weekly, typically over the weekend.** 
 
-If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.com.
+If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.com or Muchen Xi at ximuchen110@gmail.com.
 
 
 ## 📁 Content
@@ -24,7 +24,7 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
     - [🎯 Personality Assessment](#-personality-assessment)
 
-    - [🔬 Personality Nuances](#-personality-nuances)
+    - [🔬 Personality Construct/Nuances](#-personality-constructnuances)
 
     - [👥 Personality Profile](#-personality-profile)
 
@@ -43,13 +43,19 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 <details>
 <summary>details</summary>
 
+
+
 - [**Facet Map**](https://facetmap.org)
 
     Irwing, P., Hughes, D. J., Tokarev, A., & Booth, T. (2023). Towards a taxonomy of personality facets. *European Journal of Personality, 38*(3), 494–515. https://doi.org/10.1177/08902070231200919
 
+
+
 - [**100 Nuances of Personality**](https://osf.io/4xr5h)
 
     Henry, S., & Mõttus, R. (2023). The 100 nuances of personality: Development of a comprehensive, non-redundant personality item pool. *OSF.* https://doi.org/10.17605/OSF.IO/TCFGZ
+
+
 
 - [**BFI-2**](https://www.colby.edu/academics/departments-and-programs/psychology/research-opportunities/personality-lab/the-bfi-2/)
 
@@ -59,6 +65,8 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
     [Additional Related Papers](https://www.colby.edu/academics/departments-and-programs/psychology/research-opportunities/personality-lab/the-bfi-2/)
 
+
+
 - [**HEXACO-PI-R**](https://hexaco.org/)
 
     Lee, K., & Ashton, M. C. (2016). Psychometric properties of the HEXACO-100. *Assessment, 25*(5), 543–556. https://doi.org/10.1177/1073191116659134
@@ -66,6 +74,8 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
     Ashton, M., & Lee, K. (2009). The HEXACO-60: a short measure of the major dimensions of personality. *Journal of Personality Assessment, 91*(4), 340–345. https://doi.org/10.1080/00223890902935878
 
     [Additional Related Papers](https://hexaco.org/references)
+
+
 
 - [**IPIP**](https://ipip.ori.org/)
 
@@ -398,7 +408,7 @@ If you have noticed any important works we have missed, feel free to suggest the
 
 🗓 **This repository is updated weekly, usually over the weekend.**
 
-If you have any questions, feel free to reach out to Pengda Wang at wpengdaw@gmail.com.
+If you have any questions, feel free to reach out to Pengda Wang at wpengdaw@gmail.com or Muchen Xi at ximuchen110@gmail.com.
 
 ### Contributors
 
