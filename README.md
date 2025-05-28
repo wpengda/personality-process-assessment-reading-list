@@ -15,7 +15,7 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
 ## 📁 Content
 
-- [📁 Content](#content)
+- [📁 Content](#-content)
 
     - [📚 Personality Inventory](#-personality-inventory)
         - [👤 Personality-Behavior Inventory](#-personality-behavior-inventory)
@@ -32,7 +32,7 @@ If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.co
 
     - [🧬 Behavioral Genetics of Personality](#-behavioral-genetics-of-personality)
     
-- [💡 Contribution](#-contribution)
+- [💡 Contribution](#contribution)
 
 
 
