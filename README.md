@@ -81,7 +81,13 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 ## 📚 Personality Inventory
 
+<details>
+<summary>details</summary>
+
 ### 🧾 Item Measurements
+
+<details>
+<summary>details</summary>
 
 #### 📊 Dispositional Trait Taxonomy
 
@@ -100,8 +106,15 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 </details>
 
+</details>
+
+
+
 
 ### 🧠 Beyond Item Measurements
+
+<details>
+<summary>details</summary>
 
 #### 🤖 AI+
 
@@ -119,6 +132,8 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 </details>
 
+</details>
+
 
 ### 🌏 Culturally Specific Measurements
 
@@ -129,7 +144,7 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 </details>
 
 
-
+</details>
 
 
 
@@ -144,6 +159,9 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 
 ## 🔬 Personality Constructs & Taxonomies
+
+<details>
+<summary>details</summary>
 
 ### 🧭 Trait Taxonomies
 
@@ -185,7 +203,7 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 </details>
 
-
+</details>
 
 
 ## 👥 Personality Profiles
@@ -200,6 +218,9 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 
 ## 🔁 Personality Processes & Development
+
+<details>
+<summary>details</summary>
 
 ### 📈 Dynamics
 
@@ -225,9 +246,16 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 </details>
 
+</details>
+
+
 
 
 ## 🔮 Predictability of Personality
+
+<details>
+<summary>details</summary>
+
 
 ### 🎯 Criteria & Outcomes
 
@@ -245,6 +273,8 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 </details>
 
+</details>
+
 
 
 
@@ -255,6 +285,8 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 
 </details>
+
+
 
 
 ## 🧪 Novel Methods
