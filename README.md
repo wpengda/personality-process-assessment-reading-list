@@ -2,6 +2,9 @@
 
 Personality-process-assessment-reading-list: a curated list of resources for Personality process and assessment
 
+1. Relatively Comprehensive
+2. Theoretical, Methodology, and Emperical Contribution
+
 ---
 
 This repository primarily focuses on **Personality**, with an emphasis on **Personality Process and Assessment**. 
@@ -18,19 +21,48 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 - [📁 Content](#-content)
 
     - [📚 Personality Inventory](#-personality-inventory)
-        - [👤 Personality-Behavior Inventory](#-personality-behavior-inventory)
 
-    - [📝 Personality Systematic Review & Meta Analysis](#-personality-systematic-review--meta-analysis)
+        - [Item Measurements]
 
-    - [🎯 Personality Assessment](#-personality-assessment)
+          - [Dispositional Trait Taxonomy]
 
-    - [🔬 Personality Construct/Nuances](#-personality-constructnuances)
+          - [👤 Beyond Trait Taxonomy](#-personality-behavior-inventory)
+          
+        - [Beyond Item Measurements](#-personality-assessment)
+          - [AI+]
+          - [Behavioral Indicator]
+
+        - [Cultural Specific Measurements]
+    
+    - [📝 Introduction to Personality Science (Personality 101)](#-personality-systematic-review--meta-analysis)
+      <!--David Funder; Brent Roberts; Gordon Allport-->
+    - [🔬 Personality Construct & Taxonomy](#-personality-constructnuances)
+      
+      - [Trait Taxonomy]
+        
+      - [Facets & Nuances] 
+
+      - [Group Differences]
+      
+      - [Life Narrative]
+      
+      - [Nomothetic vs. Idiographic]
 
     - [👥 Personality Profile](#-personality-profile)
 
-    - [🔮 Personality Traits as Predictors](#personality-traits-as-predictors)
+    - [Personality Process & Development]
+
+      - [Dynamic]
+      - [Development]
+      - [Intervention]
+      
+    - [🔮 Predictability of Personality](#personality-traits-as-predictors)
+      - [Criterions & Outcomes]
+      - [Differences in Measurement]
 
     - [🧬 Behavioral Genetics of Personality](#-behavioral-genetics-of-personality)
+  
+    - [Novel Methods]
     
 - [💡 Contribution](#contribution)
 
