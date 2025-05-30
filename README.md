@@ -10,7 +10,7 @@ Although we cannot guarantee exhaustive coverage, we will do our best to provide
 
 **The repository is updated weekly, typically over the weekend.** 
 
-If you have any questions, feel free to contact Pengda Wang at wpengdaw@gmail.com or Muchen Xi at ximuchen110@gmail.com.
+If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.com) or `Muchen Xi` (ximuchen110@gmail.com).
 
 
 ## 📁 Content
@@ -408,7 +408,7 @@ If you have noticed any important works we have missed, feel free to suggest the
 
 🗓 **This repository is updated weekly, usually over the weekend.**
 
-If you have any questions, feel free to reach out to Pengda Wang at wpengdaw@gmail.com or Muchen Xi at ximuchen110@gmail.com.
+If you have any questions, feel free to reach out to `Pengda Wang` (wpengdaw@gmail.com) or `Muchen Xi` (ximuchen110@gmail.com).
 
 ### Contributors
 
