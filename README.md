@@ -2,8 +2,10 @@
 
 Personality-process-assessment-reading-list: a curated list of resources for Personality process and assessment
 
-1. Relatively Comprehensive
-2. Theoretical, Methodology, and Emperical Contribution
+<!-- Inclusion Criteria:
+1. Relatively Comprehensive – Covers a broad scope within the topic.
+
+2. Theoretical, Methodological, or Empirical Contribution – Provides valuable insights in theory, research methods, or empirical findings. -->
 
 ---
 
@@ -120,6 +122,13 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
     [Additional Related Papers](https://ipip.ori.org/HistoryOfTheIPIP.htm)
 
+- [**HPI**](https://www.hoganassessments.com/assessment/hogan-personality-inventory/)
+
+    Hogan, R., & Hogan, J. (2002). The Hogan personality inventory. In B. de Raad & M. Perugini (Eds.), *Big five assessment* (pp. 329–346). Hogrefe & Huber Publishers.
+
+- [**MPQ**](https://www.pearsonassessments.com/en-us/Store/Professional-Assessments/Personality-%26-Biopsychosocial/Multidimensional-Personality-Questionnaire/p/P100058000?srsltid=AfmBOooVgv_SXkvYsfAyt6_ZDTrfz7cI6AiT4J6BwtjBcjPkXL5zBq-b)
+
+    Tellegen, A., & Waller, N. G. (2008). Exploring personality through test construction: Development of the Multidimensional Personality Questionnaire. *The SAGE handbook of personality theory and assessment*, 2, 261-292.
 
 </details>
 
@@ -174,7 +183,7 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 - **A deep learning approach to personality assessment: Generalizing across items and expanding the reach of survey-based research**
 
-    Abdurahman, S., Vu, H., Zou, W., Ungar, L., & Bhatia, S. (2024). A deep learning approach to personality assessment: Generalizing across items and expanding the reach of survey-based research. *Journal of Personality and Social Psychology, 126*(2), 312–331. https://doi-org.ezproxy.rice.edu/10.1037/pspp0000480
+    Abdurahman, S., Vu, H., Zou, W., Ungar, L., & Bhatia, S. (2024). A deep learning approach to personality assessment: Generalizing across items and expanding the reach of survey-based research. *Journal of Personality and Social Psychology, 126*(2), 312–331. https://doi-org/10.1037/pspp0000480
 
 
 - **How well can an AI chatbot infer personality? Examining psychometric properties of machine-inferred personality scores**
@@ -362,6 +371,21 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 <details>
 <summary>2️⃣ details</summary>
 
+- **Beyond nomothetics and idiographics: Towards a systematization of personality research approaches.**
+
+    Phan, L. V., Modersitzki, N., Kuper, N., Beckmann, N., Fajkowska, M., Gollwitzer, M., ... & Rauthmann, J. F. (2025). Beyond nomothetics and idiographics: Towards a systematization of personality research approaches. *European Journal of Personality*, 39(2), 233-253. https://doi.org/10.1177/08902070241301633、
+
+- **Idiographic personality gaussian process for psychological assessment.**
+
+    Chen, Y., Xi, M., Montgomery, J., Jackson, J., & Garnett, R. (2024). Idiographic Personality Gaussian Process for Psychological Assessment. *Advance in Neural Information Processing System (NeurIPS)*, 37,. https://doi.org/10.48550/arXiv.2407.04970
+
+- **Idiographic traits: A return to Allportian approaches to personality.**
+
+    Beck, E. D., & Jackson, J. J. (2020). Idiographic traits: A return to Allportian approaches to personality. *Current Directions in Psychological Science*, 29(3), 301-308. https://doi.org/10.1177/0963721420915860
+
+
+
+
 
 </details>
 
@@ -383,6 +407,13 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     McCrae, R. R., Terracciano, A., & Personality Profiles of Cultures Project. (2005). Personality profiles of cultures: Aggregate personality traits. *Journal of Personality and Social Psychology, 89*(3), 407–425. https://doi.org/10.1037/0022-3514.89.3.407
 
 
+
+- **Carving personality description at its joints: Confirmation of three replicable personality prototypes for both children and adults**
+
+    Asendorpf, J. B., Borkenau, P., Ostendorf, F., & Van Aken, M. A. (2001). Carving personality description at its joints: Confirmation of three replicable personality prototypes for both children and adults. *European Journal of personality*, 15(3), 169-198. https://doi.org/10.1002/per.408
+
+
+
 </details>
 
 
@@ -399,12 +430,78 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 <summary>2️⃣ details</summary>
 
 
+#### Theoretical Framework
+
+- **Whole trait theory**
+
+    Fleeson, W., & Jayawickreme, E. (2015). Whole trait theory. *Journal of Research in Personality*, 56, 82-92. https://doi.org/10.1016/B978-0-12-813995-0.00021-2 
+
+
+
+- **A personality trait-based interactionist model of job performance**
+
+    Tett, R. P., & Burnett, D. D. (2003). A personality trait-based interactionist model of job performance. *Journal of Applied psychology*, 88(3), 500. https://doi.org/10.1037/0021-9010.88.3.500
+
+
+
+- **A cognitive-affective system theory of personality: reconceptualizing situations, dispositions, dynamics, and invariance in personality structure**
+
+    Mischel, W., & Shoda, Y. (1995). A cognitive-affective system theory of personality: reconceptualizing situations, dispositions, dynamics, and invariance in personality structure. *Psychological Review*, 102(2), 246. https://doi.org/10.1037/0033-295X.102.2.246
+
+
+
+#### Novel Perspectives
+
+- **Behavioral variability as a function of people, situation, and their interaction** 
+
+    Xi, M., & Jackson, J. J. (2025). Behavioral variability as a function of people, situation, and their interaction. *Journal of Personality and Social Psychology*. https://doi.org/10.31234/osf.io/v4dfh
+
+
+
+- **Distinguishing four types of Person × Situation interactions: An integrative framework and empirical examination** 
+
+    Kuper, N., von Garrel, A. S., Wiernik, B. M., Phan, L. V., Modersitzki, N., & Rauthmann, J. F. (2024). Distinguishing four types of Person× Situation interactions: An integrative framework and empirical examination. Journal of Personality and Social Psychology, 126(2), 282. https://doi.org/10.1037/pspp0000473
+
+
+
+- **Capturing interactions, correlations, fits, and transactions: A Person-Environment relations model**
+
+    Rauthmann, J. F. (2021). Capturing interactions, correlations, fits, and transactions: A person-environment relations model. *In The handbook of personality dynamics and processes* (pp. 427-522). Academic Press. https://doi.org/10.1016/B978-0-12-813995-0.00018-2 
+
+
+
+- **The dynamics, processes, mechanisms, and functioning of personality: An overview of the field**
+
+    Kuper, N., Modersitzki, N., Phan, L. V., & Rauthmann, J. F. (2021). The dynamics, processes, mechanisms, and functioning of personality: An overview of the field. *British Journal of Psychology*, 112(1), 1-51. https://doi.org/10.1111/bjop.12486
+
+
+
+- **Equilibria in personality states: A conceptual primer for dynamics in personality states**
+
+    Danvers, A. F., Wundrack, R., & Mehl, M. (2020). Equilibria in personality states: A conceptual primer for dynamics in personality states. *European Journal of Personality*, 34(6), 999-1016. https://doi.org/10.1002/per.2239
+
 </details>
 
 ### 🎓 Development
 
 <details>
 <summary>2️⃣ details</summary>
+
+- **The process and mechanisms of personality change**
+
+    Jackson, J. J., & Wright, A. J. (2024). The process and mechanisms of personality change. *Nature Reviews Psychology*, 3(5), 305–318. https://doi.org/10.1038/s44159-024-00295-z
+
+
+
+- **Personality stability and change**
+
+    Bleidorn, W., Schwaba, T., Zheng, A., Hopwood, C. J., Sosa, S. S., Roberts, B. W., & Briley, D. A. (2022). Personality stability and change: A meta-analysis of longitudinal studies. *Psychological Bulletin*, 148(7-8), 588.
+
+
+
+- **Personality trait change in adulthood** 
+
+    Roberts, B. W., & Mroczek, D. (2008). Personality trait change in adulthood. *Current Directions in Psychological Science*, 17(1), 31-35. https://doi.org/10.1111/j.1467-8721.2008.00543.x
 
 
 </details>
