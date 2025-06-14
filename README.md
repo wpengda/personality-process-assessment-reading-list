@@ -26,15 +26,15 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
         - [🧾 Item Measurements](#-item-measurements)
 
-            - [📊 Dispositional Trait Taxonomy](#-dispositional-trait-taxonomy)
+            - [Dispositional Trait Taxonomy](#dispositional-trait-taxonomy)
 
-            - [👤 Beyond Trait Taxonomy](#-beyond-trait-taxonomy)
+            - [Beyond Trait Taxonomy](#beyond-trait-taxonomy)
     
         - [🧠 Beyond Item Measurements](#-beyond-item-measurements)
 
-            - [🤖 AI+](#-ai)
+            - [AI+](#ai)
 
-            - [🔎 Behavioral Indicators](#-behavioral-indicators)
+            - [Behavioral Indicators](#behavioral-indicators)
 
 
         - [🌏 Culturally Specific Measurements](#-culturally-specific-measurements)
@@ -91,10 +91,8 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 <details>
 <summary>2️⃣ details</summary>
 
-#### 📊 Dispositional Trait Taxonomy
 
-<details>
-<summary>3️⃣ details</summary>
+#### Dispositional Trait Taxonomy
 
 - [**BFI-2**](https://www.colby.edu/academics/departments-and-programs/psychology/research-opportunities/personality-lab/the-bfi-2/)
 
@@ -130,13 +128,9 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
     Tellegen, A., & Waller, N. G. (2008). Exploring personality through test construction: Development of the Multidimensional Personality Questionnaire. *The SAGE handbook of personality theory and assessment*, 2, 261-292.
 
-</details>
 
 
-#### 👤 Beyond Trait Taxonomy
-
-<details>
-<summary>3️⃣ details</summary>
+#### Beyond Trait Taxonomy
 
 - [**Facet Map**](https://facetmap.org)
 
@@ -166,20 +160,13 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 
 
-</details>
-
-
-
 
 ### 🧠 Beyond Item Measurements
 
 <details>
 <summary>2️⃣ details</summary>
 
-#### 🤖 AI+
-
-<details>
-<summary>3️⃣ details</summary>
+#### AI+
 
 - **A deep learning approach to personality assessment: Generalizing across items and expanding the reach of survey-based research**
 
@@ -195,14 +182,7 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
     Bleidorn, W., & Hopwood, C. J. (2018). Using machine learning to advance personality assessment and theory. *Personality and Social Psychology Review, 23*(2), 190-203. https://doi.org/10.1177/1088868318772990 
 
-
-
-</details>
-
-#### 🔎 Behavioral Indicators
-
-<details>
-<summary>3️⃣ details</summary>
+#### Behavioral Indicators
 
 - [**BARE**](https://osf.io/zqa7m/)
 
@@ -223,9 +203,6 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
     Trull, T. J., Widiger, T. A., & Burr, R. (2001). A structured interview for the assessment of the Five‐Factor model of personality: Facet‐Level relations to the Axis II Personality Disorders. *Journal of Personality, 69*(2), 175–198. https://doi.org/10.1111/1467-6494.00141
 
-
-
-</details>
 
 </details>
 
@@ -288,9 +265,6 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 - **Bottom up construction of a personality taxonomy**
 
     Condon, D. M., Wood, D., Mõttus, R., Booth, T., Costantini, G., Greiff, S., Johnson, W., Lukaszewski, A., Murray, A., Revelle, W., Wright, A. G. C., Ziegler, M., & Zimmermann, J. (2020). Bottom up construction of a personality taxonomy. *European Journal of Psychological Assessment, 36*(6), 923–934. https://doi.org/10.1027/1015-5759/a000626
-
-
-
 
 
 - **A model for personality at three levels**
@@ -382,9 +356,6 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 - **Idiographic traits: A return to Allportian approaches to personality.**
 
     Beck, E. D., & Jackson, J. J. (2020). Idiographic traits: A return to Allportian approaches to personality. *Current Directions in Psychological Science*, 29(3), 301-308. https://doi.org/10.1177/0963721420915860
-
-
-
 
 
 </details>
