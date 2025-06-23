@@ -83,13 +83,8 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 ## 📚 Personality Inventory
 
-<details>
-<summary>1️⃣ details</summary>
 
 ### 🧾 Item Measurements
-
-<details>
-<summary>2️⃣ details</summary>
 
 
 #### Dispositional Trait Taxonomy
@@ -156,15 +151,12 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     Yarkoni, T. (2010). The abbreviation of personality, or how to measure 200 personality scales with 200 items. *Journal of Research in Personality, 44*(2), 180–198. https://doi.org/10.1016/j.jrp.2010.01.002
 
 
-</details>
 
 
 
 
 ### 🧠 Beyond Item Measurements
 
-<details>
-<summary>2️⃣ details</summary>
 
 #### AI+
 
@@ -181,6 +173,8 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 - **Using machine learning to advance personality assessment and theory**
 
     Bleidorn, W., & Hopwood, C. J. (2018). Using machine learning to advance personality assessment and theory. *Personality and Social Psychology Review, 23*(2), 190-203. https://doi.org/10.1177/1088868318772990 
+
+
 
 #### Behavioral Indicators
 
@@ -204,26 +198,15 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     Trull, T. J., Widiger, T. A., & Burr, R. (2001). A structured interview for the assessment of the Five‐Factor model of personality: Facet‐Level relations to the Axis II Personality Disorders. *Journal of Personality, 69*(2), 175–198. https://doi.org/10.1111/1467-6494.00141
 
 
-</details>
-
 
 ### 🌏 Culturally Specific Measurements
 
-<details>
-<summary>2️⃣ details</summary>
-
-
-</details>
-
-
-</details>
 
 
 
 ## 📝 Introduction to Personality Science (Personality 101)
 
-<details>
-<summary>1️⃣ details</summary>
+
 
 - **Personality psychology**
 
@@ -235,32 +218,22 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     Mõttus, R., Wood, D., Condon, D. M., Back, M. D., Baumert, A., Costantini, G., Epskamp, S., Greiff, S., Johnson, W., Lukaszewski, A., Murray, A., Revelle, W., Wright, A. G., Yarkoni, T., Ziegler, M., & Zimmermann, J. (2020). Descriptive, predictive and explanatory personality research: Different goals, different aproaches, but a shared need to move beyond the Big Few traits. *European Journal of Personality, 34*(6), 1175–1201. https://doi.org/10.1002/per.2311
 
 
-</details>
-
 
 
 ## 🔬 Personality Constructs & Taxonomies
 
-<details>
-<summary>1️⃣ details</summary>
+
 
 ### 🧭 Trait Taxonomies
 
-<details>
-<summary>2️⃣ details</summary>
 
 - **Deep lexical hypothesis: Identifying personality structure in natural language**
 
     Cutler, A., & Condon, D. M. (2023). Deep lexical hypothesis: Identifying personality structure in natural language. *Journal of Personality and Social Psychology, 125*(1), 173–197. https://doi.org/10.1037/pspp0000443
 
 
-
-</details>
-
 ### 🔍 Facets & Nuances
 
-<details>
-<summary>2️⃣ details</summary>
 
 - **Bottom up construction of a personality taxonomy**
 
@@ -272,15 +245,13 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     Revelle, W., & Condon, D. M. (2015). A model for personality at three levels. *Journal of Research in Personality, 56*, 70–81. https://doi.org/10.1016/j.jrp.2014.12.006
 
 
-</details>
 
 
 
 
 ### 🧑‍🤝‍🧑 Group Differences
 
-<details>
-<summary>2️⃣ details</summary>
+
 
 - **There are a million ways to be a woman and a million ways to be a man: Gender differences across personality nuances and nations**
 
@@ -293,12 +264,9 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 
 
-</details>
 
 ### 📖 Life Narratives
 
-<details>
-<summary>2️⃣ details</summary>
 
 
 - **Gaining insights from social media language: Methodologies and challenges**
@@ -338,12 +306,10 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     Goldberg, L. R. (1992). The development of markers for the Big-Five factor structure. *Psychological Assessment, 4*(1), 26–42. https://doi.org/10.1037/1040-3590.4.1.26
 
 
-</details>
 
 ### ⚖️ Nomothetic vs. Idiographic Approaches
 
-<details>
-<summary>2️⃣ details</summary>
+
 
 - **Beyond nomothetics and idiographics: Towards a systematization of personality research approaches.**
 
@@ -358,15 +324,11 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     Beck, E. D., & Jackson, J. J. (2020). Idiographic traits: A return to Allportian approaches to personality. *Current Directions in Psychological Science*, 29(3), 301-308. https://doi.org/10.1177/0963721420915860
 
 
-</details>
-
-</details>
 
 
 ## 👥 Personality Profiles
 
-<details>
-<summary>1️⃣ details</summary>
+
 
 - **Personality profiles of 263 occupations**
 
@@ -385,20 +347,14 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 
 
-</details>
-
-
 
 
 ## 🔁 Personality Processes & Development
 
-<details>
-<summary>1️⃣ details</summary>
+
 
 ### 📈 Dynamics
 
-<details>
-<summary>2️⃣ details</summary>
 
 
 #### Theoretical Framework
@@ -451,12 +407,11 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
     Danvers, A. F., Wundrack, R., & Mehl, M. (2020). Equilibria in personality states: A conceptual primer for dynamics in personality states. *European Journal of Personality*, 34(6), 999-1016. https://doi.org/10.1002/per.2239
 
-</details>
+
+
 
 ### 🎓 Development
 
-<details>
-<summary>2️⃣ details</summary>
 
 - **The process and mechanisms of personality change**
 
@@ -475,31 +430,21 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     Roberts, B. W., & Mroczek, D. (2008). Personality trait change in adulthood. *Current Directions in Psychological Science*, 17(1), 31-35. https://doi.org/10.1111/j.1467-8721.2008.00543.x
 
 
-</details>
 
 ### 💡 Interventions
 
-<details>
-<summary>2️⃣ details</summary>
 
 
-</details>
-
-</details>
 
 
 
 
 ## 🔮 Predictability of Personality
 
-<details>
-<summary>1️⃣ details</summary>
 
 
 ### 🎯 Criteria & Outcomes
 
-<details>
-<summary>2️⃣ details</summary>
 
 
 - **Cognitive ability and personal values: A large sample study of Schwartz's values, HEXACO personality, age, and gender**
@@ -535,8 +480,6 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 
 
-
-
 - **The power of personality: the comparative validity of personality traits, socioeconomic status, and cognitive ability for predicting important life outcomes**
 
     Roberts, B. W., Kuncel, N. R., Shiner, R., Caspi, A., & Goldberg, L. R. (2007). The power of personality: the comparative validity of personality traits, socioeconomic status, and cognitive ability for predicting important life outcomes. *Perspectives on Psychological Science, 2*(4), 313–345. https://doi.org/10.1111/j.1745-6916.2007.00047.x
@@ -556,43 +499,32 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     Ones, D. S., Viswesvaran, C., & Reiss, A. D. (1996). Role of social desirability in personality testing for personnel selection: The red herring. *Journal of Applied Psychology, 81*(6), 660–679. https://doi.org/10.1037/0021-9010.81.6.660
 
 
-</details>
 
 ### 📐 Differences in Measurement
 
-<details>
-<summary>2️⃣ details</summary>
 
 
-</details>
-
-</details>
 
 
 
 
 ## 🧬 Behavioral Genetics of Personality
 
-<details>
-<summary>1️⃣ details</summary>
+
 
 - **Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality**
 
     Schwaba, T., Sullivan, M. L. C., Akingbuwa, W. A., Ilves, K., Tanksley, P. T., Williams, C. M., Dragostinov, Y., Liao, W., Ackerman, L. S., Fealy, J. C. M., Hemani, G., De La Fuente, J., Gupta, P., Stein, M. B., Gelernter, J., Levey, D. F., Vosa, U., Ausmees, L., Realo, A., . . . Tucker-Drob, E. M. (2025). Robust inference and widespread genetic correlates from a large-scale genetic association study of human personality. *bioRxiv (Cold Spring Harbor Laboratory)*. https://doi.org/10.1101/2025.05.16.648988
 
 
-</details>
+
 
 
 
 
 ## 🧪 Novel Methods
 
-<details>
-<summary>1️⃣ nidedetails</summary>
 
-
-</details>
 
 
 
