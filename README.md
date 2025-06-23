@@ -226,7 +226,7 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 - **Personality and assessment**
 
-    Mischel, W. (1968). *Personality and assessment*. John Wiley & Sons Inc.
+    Mischel, W. (1968). *Personality and assessment*. John Wiley & Sons Inc. https://psycnet.apa.org/record/2003-00025-000
 
 
 - **Personality: a psychological interpretation**
@@ -293,7 +293,6 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 
 ### 🧑‍🤝‍🧑 Group Differences
-
 
 
 - **There are a million ways to be a woman and a million ways to be a man: Gender differences across personality nuances and nations**
@@ -381,9 +380,6 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 - **Personality profiles of 263 occupations**
 
     Anni, K., Vainik, U., & Mõttus, R. (2025). Personality profiles of 263 occupations. *Journal of Applied Psychology, 110*(4), 481–511. https://doi.org/10.1037/apl0001249
-
-
-
 
 
 - **Carving personality description at its joints: Confirmation of three replicable personality prototypes for both children and adults**
