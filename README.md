@@ -262,7 +262,7 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     Cheung, F. M., van de Vijver, F. J. R., & Leong, F. T. L. (2011). Toward a new approach to the study of personality in culture. *American Psychologist, 66*(7), 593–603. https://doi.org/10.1037/a0022389
 
 
-- **Personality profiles of cultures: Aggregate personality traits**
+<!-- - **Personality profiles of cultures: Aggregate personality traits**
     
     McCrae, R. R., Terracciano, A., & Personality Profiles of Cultures Project. (2005). Personality profiles of cultures: Aggregate personality traits. *Journal of Personality and Social Psychology, 89*(3), 407–425. https://doi.org/10.1037/0022-3514.89.3.407
 
@@ -274,7 +274,7 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 - **Gender differences in personality traits across cultures: Robust and surprising findings**
 
-    Costa, P. T., Jr., Terracciano, A., & McCrae, R. R. (2001). Gender differences in personality traits across cultures: Robust and surprising findings. *Journal of Personality and Social Psychology, 81*(2), 322–331. https://doi.org/10.1037/0022-3514.81.2.322
+    Costa, P. T., Jr., Terracciano, A., & McCrae, R. R. (2001). Gender differences in personality traits across cultures: Robust and surprising findings. *Journal of Personality and Social Psychology, 81*(2), 322–331. https://doi.org/10.1037/0022-3514.81.2.322 -->
 
 
 - **Indigenous Chinese personality constructs: Is the Five-Factor Model complete?**
