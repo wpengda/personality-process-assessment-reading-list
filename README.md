@@ -24,7 +24,6 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     - [📚 Personality Inventory](#-personality-inventory)
         - [🧾 Item Measurements](#-item-measurements)
         - [🧠 Beyond Item Measurements](#-beyond-item-measurements)
-        - [🌏 Culturally Specific Measurements](#-culturally-specific-measurements)
     - [📝 Introduction to Personality Science (Personality 101)](#-introduction-to-personality-science-personality-101) <!-- David Funder; Brent Roberts; Gordon Allport -->
     - [🔬 Personality Constructs & Taxonomies](#-personality-constructs--taxonomies)
         - [🧭 Trait Taxonomies](#-trait-taxonomies)
@@ -150,10 +149,6 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
 
 
-### 🌏 Culturally Specific Measurements
-
-
-
 ## 📝 Introduction to Personality Science (Personality 101)
 
 
@@ -258,14 +253,34 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
     Hofmann, R., Rozgonjuk, D., Soto, C. J., Ostendorf, F., & Mõttus, R. (2025). There are a million ways to be a woman and a million ways to be a man: Gender differences across personality nuances and nations. *Journal of Research in Personality*, 104582. https://doi.org/10.1016/j.jrp.2025.104582
 
 
+- **How universal is the Big Five? Testing the five-factor model of personality variation among forager–farmers in the Bolivian Amazon**
+
+    Gurven, M., von Rueden, C., Massenkoff, M., Kaplan, H., & Lero Vie, M. (2013). How universal is the Big Five? Testing the five-factor model of personality variation among forager–farmers in the Bolivian Amazon. *Journal of Personality and Social Psychology, 104*(2), 354–370. https://doi.org/10.1037/a0030841
+
+
+- **Toward a new approach to the study of personality in culture**
+
+    Cheung, F. M., van de Vijver, F. J. R., & Leong, F. T. L. (2011). Toward a new approach to the study of personality in culture. *American Psychologist, 66*(7), 593–603. https://doi.org/10.1037/a0022389
+
+
 - **Personality profiles of cultures: Aggregate personality traits**
     
     McCrae, R. R., Terracciano, A., & Personality Profiles of Cultures Project. (2005). Personality profiles of cultures: Aggregate personality traits. *Journal of Personality and Social Psychology, 89*(3), 407–425. https://doi.org/10.1037/0022-3514.89.3.407
 
 
+- **Universal Features of Personality Traits From the Observer's Perspective: Data From 50 Cultures**
+
+    McCrae, R. R., Terracciano, A., & 78 Members of the Personality Profiles of Cultures Project. (2005). Universal Features of Personality Traits From the Observer's Perspective: Data From 50 Cultures. *Journal of Personality and Social Psychology, 88*(3), 547–561. https://doi.org/10.1037/0022-3514.88.3.547
+
+
 - **Gender differences in personality traits across cultures: Robust and surprising findings**
 
     Costa, P. T., Jr., Terracciano, A., & McCrae, R. R. (2001). Gender differences in personality traits across cultures: Robust and surprising findings. *Journal of Personality and Social Psychology, 81*(2), 322–331. https://doi.org/10.1037/0022-3514.81.2.322
+
+
+- **Indigenous Chinese personality constructs: Is the Five-Factor Model complete?**
+
+    Cheung, F. M., Leung, K., Zhang, J.-x., Sun, H.-f., Gan, Y.-q., Song, W.-z., & Xie, D. (2001). Indigenous Chinese personality constructs: Is the Five-Factor Model complete? *Journal of Cross-Cultural Psychology, 32*(4), 407–433. https://doi.org/10.1177/0022022101032004003
 
 
 - **Culture and personality: Toward an integrated cultural trait psychology**
