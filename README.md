@@ -251,7 +251,10 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 
     Hofmann, R., Rozgonjuk, D., Soto, C. J., Ostendorf, F., & Mõttus, R. (2025). There are a million ways to be a woman and a million ways to be a man: Gender differences across personality nuances and nations. *Journal of Research in Personality*, 104582. https://doi.org/10.1016/j.jrp.2025.104582
 
+ - **The big five inventory–2 in China: A comprehensive psychometric evaluation in four diverse samples**
 
+    Zhang, B., Li, Y. M., Li, J., Luo, J., Ye, Y., Yin, L., Chen, Z. ,S oto, C. J. & John, O. P. (2022). The big five inventory–2 in China: A comprehensive psychometric evaluation in four diverse samples. *Assessment, 29*(6), 1262-1284. https://doi.org/10.1177/10731911211008245
+   
 - **How universal is the Big Five? Testing the five-factor model of personality variation among forager–farmers in the Bolivian Amazon**
 
     Gurven, M., von Rueden, C., Massenkoff, M., Kaplan, H., & Lero Vie, M. (2013). How universal is the Big Five? Testing the five-factor model of personality variation among forager–farmers in the Bolivian Amazon. *Journal of Personality and Social Psychology, 104*(2), 354–370. https://doi.org/10.1037/a0030841
@@ -479,6 +482,11 @@ If you have any questions, feel free to contact `Pengda Wang` (wpengdaw@gmail.co
 - **Cognitive ability and personal values: A large sample study of Schwartz's values, HEXACO personality, age, and gender**
 
     Anglim, J., & Marty, A. (2024). Cognitive ability and personal values: A large sample study of Schwartz's values, HEXACO personality, age, and gender. *Social Psychological and Personality Science*. https://doi.org/10.1177/19485506241281025
+
+- **The stressful personality: A meta-analytical review of the relation between personality and stress**
+
+    Luo, J., Zhang, B., Cao, M., & Roberts, B. W. (2023). The stressful personality: A meta-analytical review of the relation between personality and stress. *Personality and social psychology review, 27*(2), 128-194. 
+    https://doi.org/10.1177/10888683221104002
 
 
 - **Exploring the persome: The power of the item in understanding personality structure**
